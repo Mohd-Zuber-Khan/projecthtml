@@ -1,0 +1,33 @@
+.box
+{
+    width: 500px;
+    height: 300px;
+    background-color: navy;
+    opacity: 0.5;
+}
+.boxtwo
+{
+    width: 500px;
+    height: 300px;
+    background-color: navy;
+    opacity: 1;
+}
+.first
+{
+    width: 500px;
+    height: 300px;
+    background-color: orange;  
+}
+.two
+{
+    width: 500px;
+    height: 300px;
+    background-color: red;  
+   display: none;
+}
+.three
+{
+    width: 500px;
+    height: 300px;
+    background-color: green;  
+}
